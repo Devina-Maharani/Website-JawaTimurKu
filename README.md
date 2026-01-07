@@ -24,7 +24,7 @@ Web admin berada pada folder **`Dashboard/`** dan dikembangkan dengan memanfaatk
 ## Struktur Proyek
 - `Dashboard/` : web admin dan dashboard pengelolaan sistem
 - `assets/` : file pendukung seperti CSS, JavaScript, dan gambar
-- `docs/` : dokumentasi proyek (database `.sql`, screenshot website, dan file PDF pendukung)
+- `docs/` : dokumentasi proyek (database `.sql`, dan screenshot website)
 - `index.php` : halaman utama website
 
 ## Dokumentasi
